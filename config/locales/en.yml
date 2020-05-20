@@ -167,7 +167,7 @@ en:
         unban: Unban User
         undelete: Undelete
       table:
-        authenticator: Devana
+        
         created: Created
         name: Name
         not_found: No users match your search
