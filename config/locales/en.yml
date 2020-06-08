@@ -257,6 +257,7 @@ en:
     all_recordings: All Recordings
     dropdown:
       account_settings: Organization
+      help: Need help?
       home: Home
       settings: Profile
       signout: Sign out
